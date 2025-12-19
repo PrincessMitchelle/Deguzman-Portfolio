@@ -1,7 +1,5 @@
 # Personal Portfolio Website
 
-This is my final project for MITE111 Multimedia Systems and MITE113 Web-Based Programming.
-
 ## Features
 - Responsive personal portfolio
 - Semantic HTML5
@@ -17,3 +15,4 @@ This is my final project for MITE111 Multimedia Systems and MITE113 Web-Based Pr
 
 ## Live Demo
 https://PrincessMitchelle.github.io/portfolio/
+
